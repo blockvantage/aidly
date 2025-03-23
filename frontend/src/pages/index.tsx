@@ -49,7 +49,7 @@ const Home: NextPage = () => {
               </svg>
             </a>
             <a
-              href="https://t.me/aidlyorg"
+              href="https://t.me/BasedUTC"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-gray-300 transition-colors duration-200"
@@ -60,7 +60,7 @@ const Home: NextPage = () => {
               </svg>
             </a>
             <a
-              href="https://twitter.com/aidlyorg"
+              href="https://x.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-gray-300 transition-colors duration-200"
