@@ -59,7 +59,7 @@ export const Hero = () => {
             className="mt-6 text-lg leading-8 text-gray-600"
           >
             Join a community-driven platform where every contribution is transparent and traceable.
-            Together, we're building a future where aid reaches those who need it most, verified by
+            Together, we&apos;re building a future where aid reaches those who need it most, verified by
             blockchain technology.
           </motion.p>
 

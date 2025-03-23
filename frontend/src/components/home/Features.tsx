@@ -80,7 +80,7 @@ export const Features = () => {
             className="mt-6 text-lg leading-8 text-gray-600"
           >
             Built on Base, powered by smart contracts, and driven by community. Experience a new way of
-            giving that's transparent, efficient, and truly impactful.
+            giving that&apos;s transparent, efficient, and truly impactful.
           </motion.p>
         </div>
 

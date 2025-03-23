@@ -24,7 +24,7 @@ export const CallToAction = () => {
             className="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-300"
           >
             Together, we can create a world where aid reaches those who need it most. 
-            Whether you're here to help or need support, you're part of building a 
+            Whether you&apos;re here to help or need support, you&apos;re part of building a 
             more transparent and empowering future.
           </motion.p>
           <motion.div

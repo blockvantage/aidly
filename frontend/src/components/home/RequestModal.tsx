@@ -18,7 +18,7 @@ export const RequestModal = ({ isOpen, onClose }: RequestModalProps) => {
     <Modal isOpen={isOpen} onClose={onClose} title="Request Support">
       <div className="space-y-6">
         <p className="text-base text-gray-600">
-          We're here to help. Please provide some information about your needs so we can connect you
+          We&apos;re here to help. Please provide some information about your needs so we can connect you
           with the right support.
         </p>
 
