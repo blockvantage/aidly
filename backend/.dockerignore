@@ -1,0 +1,7 @@
+.git
+.env
+*.log
+README.md
+.gitignore
+.dockerignore
+Dockerfile
