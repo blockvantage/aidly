@@ -10,8 +10,8 @@ services:
     environment:
       - NODE_ENV=production
       - NEXT_PUBLIC_API_URL=http://backend:8080
-    depends_on:
-      - backend
+    # depends_on:
+      # - backend
     volumes:
       - ./frontend:/app
       - /app/node_modules
